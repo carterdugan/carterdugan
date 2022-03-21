@@ -7,7 +7,8 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=${CarterDugan}.${CarterDugan})
 
 ![Twitter](https://img.shields.io/badge/@CarterDugan-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)&nbsp;
-![Instagram](https://img.shields.io/badge/the1and.only_carter-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)&nbsp;
+![Instagram](https://img.shields.io/badge/carter.cjd-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)&nbsp;
+![YouTube](https://img.shields.io/badge/Builder_Of_Things-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)&nbsp;
 
 <img title="" src="https://github-readme-stats.vercel.app/api?username=CarterDugan&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" alt="" height="">&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carterdugan)](https://github.com/carterdugan/github-readme-stats)
