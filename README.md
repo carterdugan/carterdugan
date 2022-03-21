@@ -7,7 +7,7 @@
   * My favorite language is C
   * My least favorite language is Java
   * I love to read about space
-  * I love watching football (GEUAX SAINTS!)
+  * I love watching football (GEAUX SAINTS!)
   * I am a vocal right to repair advocate
   * My main computer is a Lenovo Thinkpad Yoga 11e (The best laptop in the world)
     * Distro:   Debian 11
