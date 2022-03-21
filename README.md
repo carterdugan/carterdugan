@@ -13,6 +13,7 @@
     * Distro:   Debian 11
     * CPU:      Intel Celeron N2940 Quad Core @ 2.30GHz
     * RAM:      8GB DDR3L @ 1600MHz
+---
 
 ### Social Media
 ![Twitter](https://img.shields.io/badge/@CarterDugan-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)&nbsp;
