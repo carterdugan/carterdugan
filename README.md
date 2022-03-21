@@ -8,7 +8,7 @@
 
 <img title="" src="https://github-readme-stats.vercel.app/api?username=CarterDugan&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" alt="" height="">
 
-
+[![Top Langs]([![Top%20Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carterdugan)](https://github.com/carterdugan/github-readme-stats))](https://github.com/carterdugan/github-readme-stats))](https://github.com/anuraghazra/github-readme-stats)
 
 
 
