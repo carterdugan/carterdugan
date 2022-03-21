@@ -19,7 +19,7 @@
 
 ### Social Media
 ![Twitter](https://img.shields.io/badge/@CarterDugan-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)&nbsp;
-![Instagram](https://img.shields.io/badge/carter.cjd-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)&nbsp;
+![Instagram](https://img.shields.io/badge/@carter.cjd-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)&nbsp;
 ![YouTube](https://img.shields.io/badge/Builder_Of_Things-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)&nbsp;
 
 ### Languages
