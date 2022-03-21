@@ -1,4 +1,4 @@
-<img src="hiimcarter.png" alt="hiimcarter" width="200"/>
+<img src="images/hiimcarter.png" alt="hiimcarter" width="200"/>
 ---
 
 ## Some quick facts about me
