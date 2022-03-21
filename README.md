@@ -1,4 +1,5 @@
-# Hi, I'm Carter!
+![image](images/hiimcarter.png)
+---
 
 ## Some quick facts about me
 
