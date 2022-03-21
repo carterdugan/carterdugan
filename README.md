@@ -1,6 +1,6 @@
 # Hi, I'm Carter!
 
-## About me
+## Some quick facts about me
 
   * I am attending Michigan Technological University
   * I am majoring in Electrical and Computer Engineering
