@@ -7,7 +7,8 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${CarterDugan}.${CarterDugan})
 :D|D:
 ---|---
-<img title="" src="https://github-readme-stats.vercel.app/api?username=CarterDugan&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" alt="" height="">|
+<img title="" src="https://github-readme-stats.vercel.app/api?username=CarterDugan&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" alt="" height="">
+|
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carterdugan)](https://github.com/carterdugan/github-readme-stats)
 
 
