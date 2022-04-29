@@ -11,9 +11,9 @@
   * I love to read about space
   * I love watching football (GEAUX SAINTS!)
   * I am a vocal right to repair advocate
-  * My main computer is a Lenovo Thinkpad Yoga 11e (The best laptop in the world)
+  * My main computer is a Lenovo Thinkpad X230 (The best laptop in the world)
     * Distro:   Debian 11
-    * CPU:      Intel Celeron N2940 Quad Core @ 2.30GHz
+    * CPU:      Intel i5-3320 Quad Core @ 3.30GHz
     * RAM:      8GB DDR3L @ 1600MHz
 ---
 
