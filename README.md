@@ -14,7 +14,7 @@
   * My main computer is a Lenovo Thinkpad X230 (The best laptop in the world)
     * Distro:   Debian 11
     * CPU:      Intel i5-3320 Quad Core @ 3.30GHz
-    * RAM:      8GB DDR3L @ 1600MHz
+    * RAM:      16GB DDR3L @ 1600MHz
 ---
 
 ### Social Media
