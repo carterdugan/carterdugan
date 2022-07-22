@@ -20,7 +20,6 @@
 ![Twitter](https://img.shields.io/badge/@CarterDugan-%23AA00FF.svg?style=for-the-badge&logo=Twitter&logoColor=white)&nbsp;
 ![Instagram](https://img.shields.io/badge/@the1and.only_carter-%23AA00FF.svg?style=for-the-badge&logo=Instagram&logoColor=white)&nbsp;
 ![YouTube](https://img.shields.io/badge/Builder_Of_Things-%23AA00FF.svg?style=for-the-badge&logo=YouTube&logoColor=white)&nbsp;
-![Discord](https://img.shields.io/badge/gargantua#9307-%23AA00FF.svg?style=for-the-badge&logo=Discord&logoColor=white)&nbsp;
 
 ### Languages
 ![C](https://img.shields.io/badge/C-%23AA00FF.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
